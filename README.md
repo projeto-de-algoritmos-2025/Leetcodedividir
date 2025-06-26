@@ -1,4 +1,4 @@
-# Grafos1_leetcodePM
+# LeetCode - Dividir e Conquistar
 
 **Número da Lista**: 4<br>
 **Conteúdo da Disciplina**: Dividir e Conquistar<br>
@@ -22,9 +22,8 @@ Iremos responder questões sobre grafos no Leet code, cada membro da dupla fará
 
 |Questão | Resolução |
 | -- | -- |
-| 815 |  [Resolução]()|
-| 994 |  [Resolução]()|
-
+| [315](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/) |  [Resolução](./respostas/315.py)|
+|  |  [Resolução]()|
 ## Instalação 
 **Linguagem**: Python<br>
 
