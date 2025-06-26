@@ -15,7 +15,7 @@ Iremos responder questões sobre grafos no Leet code, cada membro da dupla fará
 # Respostas Pedro
 |Questão | Resolução |
 | -- | -- |
-|   |  [Resolução]() |
+|  [4](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) |  [Resolução](./respostas/4.py) |
 |  |  [Resolução]()|
 
 # Respostas Mateus
