@@ -10,7 +10,7 @@
 | 22/2025950  |  Mateus Henrique Queiroz Magalhães Sousa |
 
 ## Sobre 
-Iremos responder questões sobre grafos no Leet code, cada membro da dupla fará uma difícil e uma média.
+Iremos responder questões de Dividir e Conquistar no Leet code, cada membro da dupla fará uma difícil e uma média.
 
 # Respostas Pedro
 |Questão | Resolução |
@@ -23,7 +23,7 @@ Iremos responder questões sobre grafos no Leet code, cada membro da dupla fará
 |Questão | Resolução |
 | -- | -- |
 | [315](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/) |  [Resolução](./respostas/315.py)|
-|  |  [Resolução]()|
+| [215](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) |  [Resolução](./respostas/215.py)|
 ## Instalação 
 **Linguagem**: Python<br>
 
