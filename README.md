@@ -28,7 +28,7 @@ Iremos responder questões de Dividir e Conquistar no Leet code, cada membro da 
 **Linguagem**: Python<br>
 
 ## Apresentação
-[Apresentação em vídeo ]()
+[Apresentação em vídeo ](https://www.youtube.com/watch?v=ogABx80Ebks)
 
 
 
